@@ -73,14 +73,11 @@ i{
     width: 300px;
     background: #181818; 
     padding: 15px; 
-
 }
 .text{
 line-height: 1.0;
     
 }
-
-
 .right{
     flex: 10;
     height: 100%;
